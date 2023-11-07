@@ -19,7 +19,7 @@ def main(args):
     dir_name = args.folder
     filename = args.filename
     is_correct = True
-    total_pregenesis_files = 0
+    total_pregenesis_files = 1
 
     if filename.endswith(".toml"):
         data = toml.load(os.path.join(filename))
