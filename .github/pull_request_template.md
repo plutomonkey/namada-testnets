@@ -1,6 +1,6 @@
 # Description
 
-All previous genesis validators should name their PRs "Update {validator_alias}.toml for tesntet-15" and provide links to previous PRs merged.
+All previous genesis validators should name their PRs "Update {validator_alias}.toml for testnet-15" and provide links to previous PRs merged.
 
 ## If this is an UPDATE for a previous genesis validator
 
